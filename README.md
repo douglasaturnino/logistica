@@ -5,7 +5,7 @@ Este projeto apresenta um dashboard interativo de logística, desenvolvido no Mi
 
 Segue link: 
 
-https://gist.github.com/user-attachments/assets/f534a707-8b95-4872-b87c-63a2c20e3a12"
+https://gist.github.com/user-attachments/assets/f534a707-8b95-4872-b87c-63a2c20e3a12
 
 Com ele, é possível visualizar informações importantes sobre a operação, como:
 
